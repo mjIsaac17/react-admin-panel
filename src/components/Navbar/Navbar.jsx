@@ -20,7 +20,7 @@ export default function Navbar() {
           </div>
           <img
             src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-PyEq6U1Yk4w04ZBuOGOUNdmuUG0_TUR9k2rC0bTkZGk7fNLaidmJkMayGVxorRFaKc8&usqp=CAU'
-            alt='profile picture'
+            alt='avatar'
             className='avatar'
           />
         </div>

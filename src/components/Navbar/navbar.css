@@ -1,5 +1,5 @@
 .navbar {
-  background-color: wheat;
+  background-color: rgb(243, 243, 243);
   height: 50px;
   position: sticky;
   top: 0;
@@ -18,7 +18,7 @@
 .logo {
   color: blue;
   cursor: pointer;
-  font-style: 30px;
+  font-size: 25px;
   font-weight: bold;
 }
 
