@@ -1,11 +1,14 @@
 import { Language, Notifications, Settings } from '@mui/icons-material';
+import { Link } from 'react-router-dom';
 import './navbar.css';
 export default function Navbar() {
   return (
     <div className='navbar'>
       <div className='navbar__wrapper'>
         <div className='navbar__top-left'>
-          <span className='logo'>Admin Panel</span>
+          <Link to='/'>
+            <span className='logo'>Admin Panel</span>
+          </Link>
         </div>
         <div className='navbar__top-right'>
           <div className='navbar__icon-container'>
