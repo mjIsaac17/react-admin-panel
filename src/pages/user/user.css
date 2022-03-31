@@ -1,0 +1,152 @@
+.user{
+  flex: 4;
+  padding: 20px;
+}
+
+.user-title-container{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-add-btn{
+  background-color: teal;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 5px;
+  width: 80px;
+}
+
+.user-container{
+  display: flex;
+  margin-top: 20px;
+}
+
+.user-show{
+  box-shadow: 2px 3px 8px 2px rgba(0, 0, 0, 0.24);
+  flex: 1;
+  padding: 20px;
+}
+
+.user-update {
+  box-shadow: 2px 3px 8px 2px rgba(0, 0, 0, 0.24);
+  flex: 2;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+.user-show__top {
+  align-items: center;
+  display: flex;
+}
+
+.user-show__img {
+  border-radius: 50%;
+  height: 40px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.user-show__top-title{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.user-show__username{
+  font-weight: 600;
+}
+
+.user-show__user-title{
+  font-weight: 300;
+}
+
+.user-show__bottom {
+  margin-top: 20px;
+}
+
+.user-show__title{
+  color: rgb(144, 144, 144);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.user-show__info{
+  align-items: center;
+  color: #444;
+  display: flex;
+  margin: 20px 0;
+}
+
+.user-show__icon{
+  font-size: 16px !important;
+}
+
+.user-show__info-title{
+  margin-left: 10px;
+}
+
+.user-update__title{
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.user-update__form{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.user-update__item{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.user-update__item>label{
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.user-update__input{
+  border: none;
+  border-bottom: 1px solid gray;
+  height: 30px;
+  width: 250px;
+}
+
+.user-update__right{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.user-update__upload{
+  align-items: center;
+  display: flex;
+}
+
+.user-update__img{
+  border-radius: 10px;
+  height: 150px;
+  margin-right: 20px;
+  object-fit: cover;
+  width: 150px;
+}
+
+.user-update__icon{
+  cursor: pointer;
+}
+
+.user-update__btn{
+  background-color: darkblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 5px;
+}
