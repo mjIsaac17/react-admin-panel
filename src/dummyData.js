@@ -44,3 +44,69 @@ export const activeUserData = [
     'Active User': 2490
   }
 ];
+
+export const rowsTable = [
+  {
+    id: 1,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 2,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 3,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 4,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 5,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 6,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  },
+  {
+    id: 7,
+    username: 'Jon Snow',
+    avatar:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtdRE0i2XbC4agjg7e7RY6PECIramxIa1OlF9rBv-I4tRNeNt4q9speAFNcNBCAbTvMfM&usqp=CAU',
+    email: 'jon@gmail.com',
+    status: 'active',
+    transaction: '$400.50'
+  }
+];
