@@ -114,8 +114,12 @@
 .user-update__input{
   border: none;
   border-bottom: 1px solid gray;
-  height: 30px;
+  height: 25px;
   width: 250px;
+}
+
+.user-update__input:focus{
+  outline: none;
 }
 
 .user-update__right{
