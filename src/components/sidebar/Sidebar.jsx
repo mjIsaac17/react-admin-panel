@@ -43,9 +43,11 @@ export default function Sidebar() {
                 <Person className='sidebar__icon' /> Users
               </li>
             </Link>
-            <li className='sidebar__list-item'>
-              <Store className='sidebar__icon' /> Products
-            </li>
+            <Link to='/products'>
+              <li className='sidebar__list-item'>
+                <Store className='sidebar__icon' /> Products
+              </li>
+            </Link>
             <li className='sidebar__list-item'>
               <AttachMoney className='sidebar__icon' /> Transactions
             </li>

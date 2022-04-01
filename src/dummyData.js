@@ -110,3 +110,70 @@ export const rowsTable = [
     transaction: '$400.50'
   }
 ];
+
+export const productData = [
+  {
+    name: 'Jan',
+    Sales: 2305
+  },
+  {
+    name: 'Feb',
+    Sales: 4000
+  },
+  {
+    name: 'Mar',
+    Sales: 599
+  }
+];
+
+export const productRows = [
+  {
+    id: 1,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 2,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 3,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 4,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 5,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 6,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  },
+  {
+    id: 7,
+    name: 'Bose airpods',
+    img: 'https://m.media-amazon.com/images/I/61j9RdOsJwL._AC_SS450_.jpg',
+    stock: 145,
+    price: '$500'
+  }
+];
